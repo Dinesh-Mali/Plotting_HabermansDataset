@@ -1,2 +1,2 @@
-# Plotting_HabermansDataset
-This repository will explain about few major plotting techniques for data analysis
+# Explore-ML-Algorithms
+This repository is all about the application of several important Machine Learning Algorithms
